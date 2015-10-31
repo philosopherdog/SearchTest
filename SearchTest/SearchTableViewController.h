@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SearchTableViewController.h
 //  SearchTest
 //
 //  Created by steve on 2015-10-30.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SearchTableViewController : UITableViewController
 
 @end
-
